@@ -1,5 +1,5 @@
 # Slay-the-spire-in-VB.net
-I made a copy of the popular game Slay the spire in VB.net using Microsoft Visual Studio 2010 Ultimate as a project for University.
+I made a copy of the popular game Slay the spire in VB.net using Microsoft Visual Studio 2010 Ultimate as a project for University back in 2021.
 
 It was in my first big project and i didn t used OOP since i had limited knowledge at the time.
 
