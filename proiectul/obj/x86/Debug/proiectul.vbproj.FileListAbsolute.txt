@@ -1,0 +1,19 @@
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\bin\Debug\proiectul.exe
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\bin\Debug\proiectul.pdb
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\bin\Debug\proiectul.xml
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\obj\x86\Debug\proiectul.Form1.resources
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\obj\x86\Debug\proiectul.Resources.resources
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\obj\x86\Debug\proiectul.vbproj.GenerateResource.Cache
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\obj\x86\Debug\proiectul.exe
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\obj\x86\Debug\proiectul.xml
+C:\Users\Inaza\AppData\Local\Temporary Projects\proiectul\obj\x86\Debug\proiectul.pdb
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.exe
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.xml
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.pdb
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.Form1.resources
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.Resources.resources
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.vbproj.GenerateResource.Cache
+C:\Users\Inaza\Desktop\proiectul\proiectul\bin\Debug\proiectul.exe
+C:\Users\Inaza\Desktop\proiectul\proiectul\bin\Debug\proiectul.pdb
+C:\Users\Inaza\Desktop\proiectul\proiectul\bin\Debug\proiectul.xml
+C:\Users\Inaza\Desktop\proiectul\proiectul\obj\x86\Debug\proiectul.Form2.resources
